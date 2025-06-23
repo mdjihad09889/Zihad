@@ -2,9 +2,9 @@ module.exports.config = {
   name: "leave",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  credits: "Zihad YOUR PERSONAL AI ASSISTANT ",
   description: "out box",
-  commandCategory: "Admin",
+  commandCategory: "61571781976825",
   usages: "out [tid]",
   cooldowns: 3
 };
